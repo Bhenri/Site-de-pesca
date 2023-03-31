@@ -1,0 +1,43 @@
+.page-header{
+	position: fixed;
+	width: 100%;
+	background: #fff;
+	z-index: 5;
+}
+img{
+    
+	width: 0 auto;
+	height: 250px;
+	text-align: center;
+	display: block;
+	margin: 0px auto;
+
+} 
+.thumbmail{ 
+	margin: 12px; 
+}
+h1{ 
+	font-family: candara; 
+	display: block;
+	margin: 0px auto; 
+	color:  #FFFB00; 
+}
+
+footer{
+     background-color: #000BEC;
+     font-color: #FFFB00;
+     font-family: Koulen-Regular;
+}
+
+.d-block w-100{
+	width: 90%;
+	height: 2900px;
+}
+
+.d-block {
+	height: 400px;
+}
+#nav-home-tab{
+	margin: 18px;
+	color: #fff;
+}
